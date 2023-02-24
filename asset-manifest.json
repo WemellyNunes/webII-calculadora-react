@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webII-atv4/static/css/main.7fae89f2.css",
-    "main.js": "/webII-atv4/static/js/main.b6531750.js",
-    "static/js/787.cf0f423a.chunk.js": "/webII-atv4/static/js/787.cf0f423a.chunk.js",
-    "index.html": "/webII-atv4/index.html",
-    "main.7fae89f2.css.map": "/webII-atv4/static/css/main.7fae89f2.css.map",
-    "main.b6531750.js.map": "/webII-atv4/static/js/main.b6531750.js.map",
-    "787.cf0f423a.chunk.js.map": "/webII-atv4/static/js/787.cf0f423a.chunk.js.map"
+    "main.css": "/webII-calculadora-react/static/css/main.7fae89f2.css",
+    "main.js": "/webII-calculadora-react/static/js/main.20d3feaf.js",
+    "static/js/787.cf0f423a.chunk.js": "/webII-calculadora-react/static/js/787.cf0f423a.chunk.js",
+    "index.html": "/webII-calculadora-react/index.html",
+    "main.7fae89f2.css.map": "/webII-calculadora-react/static/css/main.7fae89f2.css.map",
+    "main.20d3feaf.js.map": "/webII-calculadora-react/static/js/main.20d3feaf.js.map",
+    "787.cf0f423a.chunk.js.map": "/webII-calculadora-react/static/js/787.cf0f423a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fae89f2.css",
-    "static/js/main.b6531750.js"
+    "static/js/main.20d3feaf.js"
   ]
 }
