@@ -2,7 +2,7 @@
 
 <div align="center">
   <img align="center" height="350em" src="./img/img-calculadora.png">
-  <p><a href="https://wemy-nunes.github.io/webII-calculadora-react/">Clique aqui</a> para visualizar a pagina</p>
+  <p><a href="https://wemellynunes.github.io/webII-calculadora-react/">Clique aqui</a> para visualizar a pagina</p>
 </div>
 
 ## 📄 Sobre
